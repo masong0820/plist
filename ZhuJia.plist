@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://tcs.firstcare.com.cn/install/ZhuJia1_0.ipa</string>
+					<string>https://pan.baidu.com/s/1o8FGwrg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ZhuJia</string>
+				<string>com.moma.moma</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>助家-beta</string>
+				<string>MOMA Office</string>
 			</dict>
 		</dict>
 	</array>
